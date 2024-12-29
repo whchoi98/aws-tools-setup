@@ -101,15 +101,3 @@ Created by WooHyung Chgoi
 
 ---
 
-### **Markdown 저장 및 사용**
-1. 위 내용을 복사하여 `README.md` 파일로 저장합니다:
-   ```bash
-   nano README.md
-   ```
-
-2.GitHub에 업로드:
-```
-git add README.md
-git commit -m "Add bilingual README.md"
-git push origin main
-```
