@@ -9,16 +9,13 @@ A shell script to automate the installation of AWS management tools and configur
 
 - **Installs essential AWS management tools / 필수 AWS 관리 도구 설치:**
   - AWS CLI
-  - eksctl
-  - kubectl
   - Terraform
   - rclone
   - s3cmd
 
 - **Configures autocomplete / 자동완성 설정:**
   - AWS CLI
-  - eksctl
-  - kubectl
+
 
 - **Installs additional utilities for system monitoring, file management, and security / 시스템 모니터링, 파일 관리, 보안에 필요한 추가 유틸리티 설치.**
 
@@ -57,19 +54,11 @@ chmod +x setup_aws_tools_with_autocomplete.sh
 
 • aws: Manage AWS resources / AWS 리소스를 관리.
 
-• eksctl: Manage Amazon EKS clusters / Amazon EKS 클러스터를 관리.
-
-• kubectl: Operate Kubernetes clusters / Kubernetes 클러스터 작업.
-
 • Autocomplete will be enabled for aws, eksctl, and kubectl / aws, eksctl, kubectl 명령의 자동완성이 활성화됩니다.
 
 **Included Tools / 포함된 도구**
 
 • AWS CLI: Command-line interface for AWS services / AWS 서비스를 위한 명령줄 인터페이스.
-
-• eksctl: CLI for creating and managing EKS clusters / EKS 클러스터를 생성 및 관리하는 CLI.
-
-• kubectl: Kubernetes CLI / Kubernetes 명령줄 도구.
 
 • Terraform: Infrastructure as Code (IaC) tool / 코드형 인프라(IaC) 도구.
 
