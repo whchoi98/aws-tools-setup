@@ -1,5 +1,3 @@
-아래는 GitHub에서 바로 사용할 수 있도록 전체 내용을 Markdown 형식으로 작성한 README.md 파일입니다. 한글과 영어를 함께 포함하였습니다.
-
 # AWS Tools Setup Script  
 AWS 관리 도구 설치 스크립트
 
